@@ -5,6 +5,9 @@ Casos de Uso
 -Iniciar Sesion
 ![iniciar ssion](https://github.com/user-attachments/assets/8a9112ad-05af-4541-92f1-046627e626eb)
 
+# Registrar Usuario
+![web02](https://github.com/user-attachments/assets/3fcd4131-811b-4dac-ad92-6af0a24d038c)
+
 -Recuperar COntraseña
 ![restablecer contraseña](https://github.com/user-attachments/assets/abd848c8-1ef0-43f6-9605-63557bc9d493)
 
