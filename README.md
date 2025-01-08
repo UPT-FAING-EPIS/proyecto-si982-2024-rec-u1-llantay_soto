@@ -2,24 +2,34 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=17612384)
 # proyecto-formato-01
 Casos de Uso
+
 -Iniciar Sesion
 ![iniciar ssion](https://github.com/user-attachments/assets/8a9112ad-05af-4541-92f1-046627e626eb)
+
 -Recuperar COntraseña
 ![restablecer contraseña](https://github.com/user-attachments/assets/abd848c8-1ef0-43f6-9605-63557bc9d493)
+
 -Buscar Ofertas de Trabajo
 ![buscar ofertas de trabajo](https://github.com/user-attachments/assets/cd5e2854-f99f-4af4-9d10-210ee356de06)
+
 -Cerrar Sesion
 ![cerrar sesion](https://github.com/user-attachments/assets/fb603e46-a849-4d5b-87ae-ada2d98decf0)
+
 -Editar Informacion
 ![editar informacion de la oferta](https://github.com/user-attachments/assets/7f8c57bb-35c3-47a7-923e-53b5703b20a2)
+
 -Mensaje de Error de Inicio de Sesion
 ![mnsaje de error de inicio de sesion](https://github.com/user-attachments/assets/c0f04d3b-719d-438d-9d6d-4237ed76e31c)
+
 -Filtrar Ofertas por Ubicacion
 ![filtrar ofertas por ubicacion](https://github.com/user-attachments/assets/16471efc-5d4a-4fc2-9b06-d055ca3a43c4)
+
 -Subir Archivos
 ![subir archivos](https://github.com/user-attachments/assets/c655b279-d066-422d-8f60-8bbc34ab6512)
+
 -Ver Perfil de la Empresa
 ![ver erfil de la empresa](https://github.com/user-attachments/assets/e3671fe9-eb5b-4a1c-ac86-63746c804cd0)
+
 -Administrar Ofertas de Empleo
 ![administrar oferta](https://github.com/user-attachments/assets/74773cf9-2be7-4007-9d20-ed10091c9395)
 
