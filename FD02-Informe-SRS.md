@@ -65,7 +65,7 @@ Integrantes:
 
 **INDICE GENERAL**
 #
-[1.	Introducción](#_Toc52661346)
+1.	Introducción (#_Toc52661346)
 
 [1.1 Generalidades de la Empresa  ](#_Toc52661346)
 
