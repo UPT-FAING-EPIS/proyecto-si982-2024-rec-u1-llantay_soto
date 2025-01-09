@@ -139,7 +139,7 @@ c. Escenarios de Caso de Uso (narrativa)
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-**<u>Informe de Visión</u>**
+**<u>Informe de SRS</u>**
 
 1. <span id="_Toc52661346" class="anchor"></span>**Introducción**
 
@@ -157,15 +157,48 @@ c. Escenarios de Caso de Uso (narrativa)
 
 2.1	Descripción del Problema  
 
+En el mercado laboral actual, existe una desconexión entre empleadores y potenciales empleados, especialmente en regiones donde las herramientas digitales son limitadas o ineficaces. Los empleadores enfrentan dificultades para encontrar candidatos cualificados de manera eficiente, mientras que los solicitantes de empleo carecen de una plataforma centralizada para explorar oportunidades. Esto genera un proceso lento, costoso y poco accesible.
+
 2.2 Objetivos de Negocios  
+
+1. Proveer una plataforma eficiente que conecte empleadores con candidatos calificados.
+2. Reducir los costos asociados a la búsqueda de empleo y reclutamiento.
+3. Aumentar la visibilidad de las oportunidades laborales para los usuarios registrados.
 
 2.3 Objetivos de Diseño  
 
-2.4 Alcance del proyecto  
+1. Crear una interfaz intuitiva y accesible para empleadores y candidatos.
+2. Garantizar la seguridad de la información personal y profesional de los usuarios.
+3. Permitir la escalabilidad del sistema para incorporar futuras funcionalidades y soportar un aumento en usuarios.
+
+2.4 Alcance del proyecto 
+
+El sistema de bolsa de trabajo incluye el desarrollo de una plataforma web y/o móvil que permite la publicación de ofertas
+laborales y la gestión de candidaturas. Los usuarios podrán crear perfiles, tanto empleadores como candidatos, con la
+capacidad de subir currículums y descripciones de empresa. Se implementará un sistema de búsqueda y filtrado eficiente que
+facilite la conexión entre las ofertas de empleo y los postulantes. Además, el sistema generará reportes sobre métricas
+clave, como el número de postulaciones y visualizaciones. También se integrarán métodos de comunicación directa, como chats
+o correos, entre empleadores y postulantes. Finalmente, contará con módulos administrativos para el monitoreo y gestión del
+sistema por parte de los administradores.
 
 2.5 Viabilidad del Sistema  
 
+El proyecto es técnicamente viable mediante el uso de tecnologías modernas, como frameworks de desarrollo web o móvil
+(Flutter, React, etc.) y bases de datos escalables como PostgreSQL o MongoDB. Desde un punto de vista económico, los costos
+iniciales de desarrollo y mantenimiento pueden ser cubiertos mediante el modelo de negocio, que incluye ingresos por
+anuncios y suscripciones, garantizando la sostenibilidad a largo plazo. Operativamente, los usuarios finales, tanto
+empleadores como candidatos, están familiarizados con el uso de plataformas digitales, lo que facilita la adopción del
+sistema. Legalmente, el sistema cumplirá con las regulaciones de protección de datos personales, como el RGPD, para
+garantizar la privacidad y la confianza de los usuarios.
+
 2.6 Información obtenida del Levantamiento de Información  
+
+A través del levantamiento de información se identificó que los empleadores necesitan una solución que les permita
+encontrar perfiles calificados de forma rápida y confiable. Por otro lado, los candidatos demandan una plataforma que
+ofrezca una búsqueda laboral personalizada y eficiente. También se detectaron problemas comunes, como la falta de
+organización de currículums y la limitada comunicación entre empleadores y postulantes. Aunque existen plataformas
+similares, muchas presentan costos elevados o no están adaptadas a necesidades locales específicas. Por último, los
+usuarios esperan una experiencia amigable, segura y con notificaciones claras sobre los procesos de postulación y selección.
 
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
