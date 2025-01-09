@@ -32,19 +32,6 @@ Integrantes:
 </center>
 <div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-|CONTROL DE VERSIONES||||||
-| :-: | :- | :- | :- | :- | :- |
-|Versión|Hecha por|Revisada por|Aprobada por|Fecha|Motivo|
-|1\.0|DSR|PCQ|DSR|08/01/2025|Versión Original|
-
-
-
-
-
-
-
-
-
 
 
 
@@ -55,7 +42,7 @@ Integrantes:
 **Versión *{1.0}***
 **
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+
 
 |CONTROL DE VERSIONES||||||
 | :-: | :- | :- | :- | :- | :- |
@@ -63,14 +50,14 @@ Integrantes:
 |1\.0|DSR|PCQ|DSR|08/01/2025|Versión Original|
 
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
-
 
 **INDICE GENERAL**
 #
-[1.	Introducción](#_Toc52661346)
+[1.	Introducción]
 
 1.1	Propósito
+
+
 El propósito del proyecto Sistema de Bolsa de Trabajo es desarrollar una plataforma web que facilite la conexión eficiente entre empresas que ofrecen oportunidades laborales y usuarios que buscan empleo. El sistema permitirá a los candidatos registrar sus perfiles, buscar y postularse a empleos en diversas áreas de interés, mientras que las empresas podrán publicar ofertas de trabajo, gestionar postulaciones y acceder a perfiles de candidatos calificados.
 
 Este proyecto tiene como objetivo principal simplificar y optimizar el proceso de búsqueda y oferta de empleo, fomentando la empleabilidad y apoyando a las empresas en la identificación de talento adecuado, todo dentro de un entorno seguro, accesible y fácil de usar.
