@@ -19,6 +19,8 @@ Docente: *Patrick Cuadros Quiroaga*
 Integrantes:
 
 *** LLantay Machaca Marjiory Grace                        (2020068951)***
+
+
 *** Soto Rodriguez Duanet                                 (2015051384)***
 
 **Tacna – Perú**
