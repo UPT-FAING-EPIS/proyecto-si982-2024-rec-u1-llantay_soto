@@ -67,6 +67,8 @@ Integrantes:
 #
 [1.	Introducción ] (#_Toc52661346)
 
+<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+
 [1.1 Generalidades de la Empresa  ](#_Toc52661346)
 
 1.1	Nombre de la Empresa 
@@ -76,6 +78,8 @@ Integrantes:
 1.3 Misión  
 
 1.4 Organigrama 
+
+<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
 [1.2.	Visionamiento de la Empresa  ](#_Toc52661347)
 
@@ -90,6 +94,8 @@ Integrantes:
 2.5 Viabilidad del Sistema  
 
 2.6 Información obtenida del Levantamiento de Información  
+
+<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
 [2. ANÁLISIS DE PROCESOS](#_Toc52661348)
 
@@ -128,11 +134,19 @@ c. Escenarios de Caso de Uso (narrativa)
 
    d. Diagrama de Clases  
 
+<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+
 [CONCLUSIONES](#_Toc52661355)
+
+<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
 [RECOMENDACIONES](#_Toc52661356)
 
+<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+
 [BIBLIOGRAFIA](#_Toc52661357)
+
+<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
 [WEBGRAFIA](#_Toc52661358)
 
